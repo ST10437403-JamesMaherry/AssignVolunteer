@@ -50,4 +50,9 @@ public class AssignVolunteer2
         System.out.println("This is " + message);
     }
     
+    private void HelloWorld()
+    {
+        System.out.println("Hello World");
+    }
+    
 }
